@@ -28,13 +28,20 @@ OREB : OFFENSIVE REBOUNDS
 
 DREB : DEFENSIVE REBOUNDS
 
-REB : REBOUNDS -
-AST : ASSISTS -
+REB : REBOUNDS 
+
+AST : ASSISTS 
+
 STL : STEALS 
+
 BLK : BLOCKS
-TO : TURNOVERS -
+
+TO : TURNOVERS 
+
 PF : PERSONAL FOULS
+
 PTS : POINTS
+
 PLUS_MINUS
 
 OREB : An offensive rebound occurs in basketball when an offensive player misses a field goal attempt, misses the free throw, or commits a foul that isn't either a shooting foul or a technical foul
