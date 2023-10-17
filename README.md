@@ -7,16 +7,27 @@ Following is the link to the dataset which was organized clean and processed in 
 
 Some more basic stat info, that will be helpful with the excel file:
 FGM : FIELD GOALS MADE
+
 FGA : FIELD GOALS ATTEMPTED
+
 FG_PCT : FIELD GOAL PERCENTAGE
+
 FG3M : 3 POINT FIELD GOAL MADE
+
 FG3A : 3 POINT FIELD GOAL ATTEMPTED
+
 FG3_PCT : 3 POINT FIELD GOAL PERCENTAGE
+
 FTM : FREE THROWS MADE
+
 FTA : FREE THROWS ATTEMPTED
+
 FT_PCT : FREE THROW PERCENTAGE
+
 OREB : OFFENSIVE REBOUNDS
+
 DREB : DEFENSIVE REBOUNDS
+
 REB : REBOUNDS -
 AST : ASSISTS -
 STL : STEALS 
