@@ -32,10 +32,6 @@ DREB : when defensive players gain possession of the ball after an offensive pla
 
 REB : A rebound occurs when a shot does not go in the net, instead bouncing off the rim or backboard into the hands of a player below.
 
-start position : center forword guard
+Positions : center forword guard
 
-top 5 player with most reb
-least 5
-
-offensive rebounds are hard to get as compare to def rebound
 
